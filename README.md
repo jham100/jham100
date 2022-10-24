@@ -6,7 +6,7 @@ Some of my favorite technologies to use are:
 - HTML, CSS, and JS
   - HTML5
   - CSS3
-    - Proficient with CSS grid, flexbox, transitions (all that good stuff).
+    - CSS grid, flexbox, transitions (all that good stuff).
 - Node.js
 - React.js
 - Python
